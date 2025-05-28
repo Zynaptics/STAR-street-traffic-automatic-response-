@@ -115,6 +115,5 @@ This project is built using **Arduino UNO** and **ESP32** with **Wi-Fi connectiv
 - [PubSubClient Library](https://github.com/knolleary/pubsubclient)
 
 
-> ⭐ If you found this project helpful, give it a star and consider contributing!
-
+> ⭐ If you found this project helpful, give it a star.
 
